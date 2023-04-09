@@ -14,7 +14,7 @@ If we look  of t-test results for all the lots, the variance is 62.3  and this v
 
 ## T-Tests on Suspension Coils
 
-
+T-tests were run on the suspension coil data to determine if all manufacturing lots are statistically different from the population mean of 1,500 pounds per square inch (PSI). The results of the t-tests across all lots and each individual lot are below. 
 
 
 ![image](https://user-images.githubusercontent.com/120151872/230748075-f6e39e21-473c-4630-a7bb-27df4378e6a2.png)
