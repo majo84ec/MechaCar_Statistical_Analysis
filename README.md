@@ -14,5 +14,7 @@ If we look  of t-test results for all the lots, the variance is 62.3  and this v
 
 
 ![image](https://user-images.githubusercontent.com/120151872/230748075-f6e39e21-473c-4630-a7bb-27df4378e6a2.png)
+
+
 ![image](https://user-images.githubusercontent.com/120151872/230748397-170bac77-b850-49ce-ab00-85d92d29bf63.png)
 
