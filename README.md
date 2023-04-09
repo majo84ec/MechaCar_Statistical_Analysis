@@ -12,6 +12,10 @@ If we look  of t-test results for all the lots, the variance is 62.3  and this v
 
 ![image](https://user-images.githubusercontent.com/120151872/230745812-181dbdec-a785-4b51-8ca5-57f3472c861b.png)
 
+## T-Tests on Suspension Coils
+
+
+
 
 ![image](https://user-images.githubusercontent.com/120151872/230748075-f6e39e21-473c-4630-a7bb-27df4378e6a2.png)
 
