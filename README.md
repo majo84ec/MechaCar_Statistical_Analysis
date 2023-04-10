@@ -29,4 +29,12 @@ T-tests were run on the suspension coil data to determine if all manufacturing l
 ![image](https://user-images.githubusercontent.com/120151872/230748397-170bac77-b850-49ce-ab00-85d92d29bf63.png)
 Fig.4
 
-Looking at all Lots, they have
+### Design a Study Comparing the MechaCar to the Competition.
+
+In addition of features listed in MechaCar study they are several others can be included to compare with the competion such us: Car Model , Sale Price, Safety, Type of Engine, HorsePower, Fuel economy ,Maintencance Cost, Weight, Oil type. In this case we will compare the fuel efficiency, hoursepower and Price for an specific model of car (ex.SUV)
+
+Null Hypothesis (Ho): There is NO  significant statistical difference on defined metrics between MechaCar and competition.
+Alternative Hypothesis (Ha):There is significant  statistical  difference on defined metrics between MechaCar and competition.
+
+
+So, we will need a similar database from our competitor to perform the analysis. As  stadistical tools we can use is a lineal regression to see what variables impact the fuel economy and a T-test on each metrics . If the p-value for each t-tests is less than 0.05 then we will reject our NULL hypothesis.
